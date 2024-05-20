@@ -22,7 +22,9 @@ function openModal(countryName) {
   overlay.style.justifyContent = 'center';
   overlay.style.alignItems = 'center';
   overlay.style.left = window.scrollX.toString() + 'px';
+  overlay.style.top = window.scrollY.toString() + 'px';
   modal.style.left = window.scrollX.toString() + 'px';
+  modal.style.top = window.scrollY.toString() + 'px';
   body.style.overflow = 'hidden';
 
   modal.onclick = () => isModal = true;
