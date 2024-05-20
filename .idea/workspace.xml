@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="186eea55-9b53-4e08-9cb4-5aec88fbac04" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dVLLRgnS7S2xBNhokNbA8dTEb8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/repos/LangMap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\repos\LangMap\assets" />
+      <recent name="D:\repos\LangMap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repos\LangMap\node" />
+      <recent name="D:\repos\LangMap\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:62105/LangMap/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="186eea55-9b53-4e08-9cb4-5aec88fbac04" name="Changes" comment="" />
+      <created>1710088242411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710088242411</updated>
+      <workItem from="1710088243422" duration="9387000" />
+      <workItem from="1710166531844" duration="10000" />
+      <workItem from="1710687387599" duration="2746000" />
+      <workItem from="1711310979344" duration="1477000" />
+      <workItem from="1711377525728" duration="597000" />
+      <workItem from="1713182633170" duration="1318000" />
+      <workItem from="1713187847213" duration="900000" />
+      <workItem from="1713191993776" duration="1186000" />
+      <workItem from="1714083715690" duration="128000" />
+      <workItem from="1714300031963" duration="25550000" />
+      <workItem from="1714397311572" duration="142000" />
+      <workItem from="1714397624827" duration="369000" />
+      <workItem from="1714670676919" duration="600000" />
+      <workItem from="1714684163133" duration="23000" />
+      <workItem from="1714998033216" duration="1169000" />
+      <workItem from="1715002231775" duration="70000" />
+      <workItem from="1715263563556" duration="6335000" />
+      <workItem from="1715374505085" duration="5965000" />
+      <workItem from="1715435001406" duration="198000" />
+      <workItem from="1715533575983" duration="6272000" />
+      <workItem from="1715610032951" duration="61000" />
+      <workItem from="1716200996439" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
