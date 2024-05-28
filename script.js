@@ -1,7 +1,6 @@
 let countriesData = await (await fetch('./assets/data.json')).json();
 
 setCountriesClicksListeners();
-// changeScrollToHorizontal();
 
 function setCountriesClicksListeners() {
   let countries = Array.from(document.getElementsByTagName('path'));
@@ -46,15 +45,4 @@ function fillModal(countryName) {
   header.innerText = countryName;
   if (country?.description) description.innerText = country.description;
   wikiLink.href = 'https://en.wikipedia.org/wiki/' + countryName;
-}
-
-function changeScrollToHorizontal() {
-  function transformScroll(event) {
-    if (!event.deltaY) return;
-    event.currentTarget.scrollLeft += event.deltaY + event.deltaX;
-    event.preventDefault();
-  }
-
-  let element = document.scrollingElement || document.documentElement;
-  element.addEventListener('wheel', transformScroll);
 }
